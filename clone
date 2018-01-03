@@ -30,3 +30,8 @@
    30  git push origin hetali
    31  git pull origin bhavin
    32  history > clone&collabroate.txt
+   33  git add .
+   34  git commit -i -m "dhusf"
+   35  git commit  -m "dhusf"
+   36  git push origin hetali
+   37  history > clone&collabroate1.txt
